@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" role="img" aria-label="SkyConnect project footer">
+  <rect width="1000" height="80" rx="12" fill="#0b1728"/>
+  <path d="M40 20 H960" stroke="#56d4dc" stroke-width="2" stroke-dasharray="8 8" opacity=".55"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="4s" repeatCount="indefinite"/></path>
+  <text x="500" y="52" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#d5e3ee">SKYCONNECT · DESIGN / BUILD / VERIFY</text>
+</svg>

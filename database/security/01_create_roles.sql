@@ -1,0 +1,2 @@
+-- STATUS: PENDING (section 7.3.6).
+-- TODO: Create the five roles after reviewing the approved privilege matrix.

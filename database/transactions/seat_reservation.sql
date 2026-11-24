@@ -1,0 +1,6 @@
+-- STATUS: TODO. Assignment 7.3.7 case 2: explain the provided transaction.
+-- Study seat availability for flight 10, seat 12A, passenger 5, price 250.00.
+-- Explain commit/rollback behavior and concurrency risk of check-then-insert.
+-- MySQL procedural IF is not standalone SQL; validate a stored-program or
+-- application approach and a unique seat-per-flight constraint if needed.
+-- This placeholder performs no insertions.

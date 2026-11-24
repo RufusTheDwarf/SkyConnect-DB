@@ -1,0 +1,3 @@
+-- STATUS: PENDING (section 7.3.6).
+-- TODO: Grant least privileges using validated table and column names.
+-- Review schema-level administration separately from account management.

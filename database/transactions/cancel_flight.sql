@@ -1,0 +1,4 @@
+-- STATUS: TODO after schema approval. Assignment 7.3.7 case 1.
+-- Plan: start transaction, delete reservations for the chosen flight,
+-- delete that flight, verify, commit only on success; rollback on failure.
+-- Use an isolated test database; this placeholder performs no deletions.

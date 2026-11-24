@@ -1,0 +1,3 @@
+-- TEST PLAN ONLY; no tests are implemented or executed.
+-- Use an isolated database: test cancellation, rollback and duplicate/concurrent seat reservation.
+-- TODO: add checks using the approved schema and controlled fixtures.

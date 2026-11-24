@@ -1,0 +1,2 @@
+-- STATUS: PENDING (section 7.3.6).
+-- TODO: Grant roles to users, set default roles, and verify SHOW GRANTS.

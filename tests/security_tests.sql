@@ -1,0 +1,3 @@
+-- TEST PLAN ONLY; no tests are implemented or executed.
+-- Test each account separately: permitted and forbidden statements; record actual outcomes.
+-- TODO: add checks using the approved schema and controlled fixtures.

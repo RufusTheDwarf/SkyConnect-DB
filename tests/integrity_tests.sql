@@ -1,0 +1,3 @@
+-- TEST PLAN ONLY; no tests are implemented or executed.
+-- Check row counts, unique constraints, foreign keys, orphan records and seat uniqueness.
+-- TODO: add checks using the approved schema and controlled fixtures.

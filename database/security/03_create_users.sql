@@ -1,0 +1,3 @@
+-- STATUS: PENDING (section 7.3.6).
+-- TODO: Create at least one user per role in 03_create_users.local.sql.
+-- The local file is ignored by Git. Never place actual passwords here.
